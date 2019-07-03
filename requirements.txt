@@ -1,0 +1,14 @@
+requests
+tld
+dukpy
+pytest
+mock
+pytest-cov
+tox
+sphinx
+coveralls
+funcsigs
+twine
+pathlib2
+scandir
+-e .
